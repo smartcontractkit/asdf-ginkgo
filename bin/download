@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+# file expected but not used for this plugin since all is done in the install script
